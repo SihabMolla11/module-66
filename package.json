@@ -1,0 +1,25 @@
+{
+  "name": "66-number-module",
+  "version": "1.0.0",
+  "description": "- module number - 66",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SihabMolla11/module-66.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SihabMolla11/module-66/issues"
+  },
+  "homepage": "https://github.com/SihabMolla11/module-66#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
